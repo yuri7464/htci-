@@ -1,0 +1,20 @@
+i++ ou cont: é um contador
+o algoritmo começa do 0  
+oque está dentro das chaves é responsavel por repetir quantas vezes for estabelecido
+
+
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro num, resultado
+		escreva("digite um numero:")
+		leia(num)
+		
+		para(inteiro i=100; i>=1; i--){
+			escreva(num,"-", i, "=", resultado=num-i,"\n")
+			
+		}
+	}
+}
